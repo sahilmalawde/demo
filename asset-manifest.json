@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.eef89703.css",
-    "main.js": "/static/js/main.498b8a76.js",
-    "index.html": "/index.html",
-    "main.eef89703.css.map": "/static/css/main.eef89703.css.map",
-    "main.498b8a76.js.map": "/static/js/main.498b8a76.js.map"
+    "main.css": "/sahilmalawde.github.io/demo/static/css/main.eef89703.css",
+    "main.js": "/sahilmalawde.github.io/demo/static/js/main.a0739b59.js",
+    "index.html": "/sahilmalawde.github.io/demo/index.html",
+    "main.eef89703.css.map": "/sahilmalawde.github.io/demo/static/css/main.eef89703.css.map",
+    "main.a0739b59.js.map": "/sahilmalawde.github.io/demo/static/js/main.a0739b59.js.map"
   },
   "entrypoints": [
     "static/css/main.eef89703.css",
-    "static/js/main.498b8a76.js"
+    "static/js/main.a0739b59.js"
   ]
 }
